@@ -36,9 +36,6 @@
         </a>
     <div style="text-align: left;">  </div> 
     </div>
-    
-    </div>
-    <br>
 </div>
 
 ## Github stats
