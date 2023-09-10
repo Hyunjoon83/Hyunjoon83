@@ -3,10 +3,10 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
-        <p align="center"> Hi there 👋</br> I'm Hyunjoon Park.</p>
+        <p align="center"> Hi there 👋</br> I'm Hyunjoon Park.</div>
         ## 💻Baekjoon[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
         ![mazandi profile](http://mazandi.herokuapp.com/api?handle=junippini83&theme=dark)
-        ## 🛠Language🛠 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjoon83&langs_count=8)](https://github.com/Hyunjoon83/github-readme-stats)
+        ## 🛠Language🛠 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjoon83&langs_count=8)](https://github.com/Hyunjoon83/github-readme-stats)</div>
         🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
