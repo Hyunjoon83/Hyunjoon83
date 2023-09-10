@@ -1,5 +1,5 @@
 <p align="center">
-Hi there 👋
+Hi there 👋</br>
 I'm Hyunjoon Park.
 </p>
 
