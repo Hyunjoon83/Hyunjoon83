@@ -10,10 +10,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=junippini83&theme=dark)
 
-## 🛠Language🛠 
+## 🛠️ Language 🛠️ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjoon83&langs_count=8)](https://github.com/Hyunjoon83/github-readme-stats)
 
-🛠️ Tech Stacks
+## 🛠️ Tech Stacks 🛠️
 <br>
 <div style="text-align: left;">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
