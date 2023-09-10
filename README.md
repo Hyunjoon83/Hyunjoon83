@@ -2,7 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:361ef1&height=120&text=Hello&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
+        <p align="center">
+Hi there 👋</br>
+I'm Hyunjoon Park.
+</p>🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
@@ -16,10 +20,6 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-<p align="center">
-Hi there 👋</br>
-I'm Hyunjoon Park.
-</p>
 ## 💻Baekjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
