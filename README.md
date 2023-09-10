@@ -1,15 +1,17 @@
 <p align="center">
-### Hi there 👋
+Hi there 👋
 </p>
 
 ## Baekjoon
-
+<p align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
+</p>
 
 ## 🛠Language🛠
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjoon83&langs_count=8)](https://github.com/Hyunjoon83/github-readme-stats)
+</p>
 
 ## Github stats
 <p align="center"> 
@@ -17,4 +19,6 @@
 </p>
 
 ## Velog
+<p align="center">
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunjoon0803)]((https://velog.io/@hyunjoon0803))
+</p>
