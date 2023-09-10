@@ -1,8 +1,9 @@
 <p align="center">
 Hi there 👋
+I'm Hyunjoon Park.
 </p>
 
-## Baekjoon
+## 💻Baekjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=junippini83&theme=dark)
