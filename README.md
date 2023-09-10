@@ -4,8 +4,7 @@ Hi there 👋
 
 ## Baekjoon
 <p align="center">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83"></a>
 </p>
 
 ## 🛠Language🛠
