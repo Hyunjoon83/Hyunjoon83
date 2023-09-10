@@ -3,7 +3,8 @@ Hi there 👋
 </p>
 
 ## Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junippini83)](https://solved.ac/junippini83)<br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
 
 ## 🛠Language🛠
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjoon83&langs_count=8)](https://github.com/Hyunjoon83/github-readme-stats)
