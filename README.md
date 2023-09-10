@@ -34,7 +34,6 @@
         <a href=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox> 
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> 
         </a>
-          </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     
