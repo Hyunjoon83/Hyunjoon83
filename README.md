@@ -31,9 +31,6 @@
         <a href="https://velog.io/@hyunjoon0803">
             <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@hyunjoon0803">
         </a>
-        <a href="https://www.notion.so/HYUNJOON-a7fcf054f55b4b4380caf077016a0f30?pvs=4">
-            <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/HYUNJOON-a7fcf054f55b4b4380caf077016a0f30?pvs=4">
-        </a>
     </div>
     <br>
 </div>
