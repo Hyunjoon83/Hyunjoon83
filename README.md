@@ -31,7 +31,8 @@
         <a href="https://velog.io/@hyunjoon0803">
             <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@hyunjoon0803">
         </a>
-        <a href=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> </a>
+        <a href=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox> 
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
