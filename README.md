@@ -1,16 +1,20 @@
+<p align="center">
 ### Hi there 👋
+</p>
 
-<!--
-**Hyunjoon83/Hyunjoon83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Baekjoon
 
-Here are some ideas to get you started:
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠Language🛠
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjoon83&langs_count=8)](https://github.com/Hyunjoon83/github-readme-stats)
+
+## Github stats
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyunjoon83&theme=vue&show_icons=true"/></a>
+</p>
+
+## Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunjoon0803)]((https://velog.io/@hyunjoon0803))
