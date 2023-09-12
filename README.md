@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .center-align {
-            text-align: center;
-        }
-
-        .left-align {
-            text-align: left;
-        }
-
-        .profile-image {
-            max-height: 120px;
-            animation: fadeIn;
-        }
-
-        h2 {
-            border-bottom: 1px solid #21262d;
-            color: #c9d1d9;
-        }
-    </style>
 </head>
 <body>
     <div class="center-align">
