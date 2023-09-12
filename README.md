@@ -20,7 +20,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 
-    <h2>🧑‍💻 Contact me</h2>
+    <h2>
+🧑‍💻 Contact me</h2>
 <a href="https://www.instagram.com/hjpark_83">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hjpark_83">
     </a>
