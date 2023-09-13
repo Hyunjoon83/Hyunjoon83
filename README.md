@@ -4,7 +4,7 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Hyunjoon Park</h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">Software Developer</div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
 </div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83)](https://solved.ac/junippini83)
