@@ -20,7 +20,6 @@
         <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
         <br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     </div>
