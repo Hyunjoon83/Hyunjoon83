@@ -22,6 +22,8 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
     </div>
 </div>
 
@@ -31,6 +33,11 @@
         <a href="https://www.instagram.com/hjpark_83"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hjpark_83"> </a>
         <a href="https://velog.io/@hyunjoon0803"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@hyunjoon0803"> </a>
         <a href="mailto:junippini83@hanyang.ac.kr"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:junippini83@hanyang.ac.kr"> </a>
+    </div>
+</div>
+    <div style="text-align: left;">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Baekjoon</h2>
+        <a href="https://solved.ac/junippini83/"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83" alt="Solved.ac Profile" /> </a>
     </div>
 </div>
 
