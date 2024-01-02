@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Venom&color=F74040&height=300&section=header&text=Welcome%20to%20my%20Hub!😊&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=Venom&color=F74040&height=200&section=header&text=Welcome%20to%20my%20Hub!😊&fontColor=ffffff&fontSize=70" />
 </div>
 
 <div style="text-align: left;">
