@@ -1,14 +1,15 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff0000,100:1227c4&height=180&text=😃&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=Venom&color=F74040&height=300&section=header&text=Welcome%20to%20my%20Hub!😊&fontColor=ffffff&fontSize=70" />
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Introduce</h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">:bowtie: Introduce</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
-    👋Hi, I'm Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</div>
+    👋 Hi, I'm Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</div>
+    🔥 I'm interested in Artificial Intelligence especially Computer Vision.</div>
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Career</h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏢 Career</h2>
     <div style="margin: 10px; text-align: left;"></div>
     * HYU HUHS Member (23.9 ~) / Studying ML
 
@@ -17,11 +18,11 @@
     <div style="margin: 10px; text-align: left;">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
         <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
     </div>
@@ -38,14 +39,5 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Baekjoon</h2>
         <a href="https://solved.ac/junippini83/"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junippini83" alt="Solved.ac Profile" /> </a>
-    </div>
-</div>
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
-    <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hyunjoon83&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-    </div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjoon83&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
     </div>
 </div>
