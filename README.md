@@ -5,8 +5,10 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">:bowtie: Introduce</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
-    👋 Hi, I'm Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</div>
-    🔥 I'm interested in Artificial Intelligence especially Computer Vision.</div>
+        👋 Hi, I'm Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</br>
+        🌏 I'm from South Korea and living in Seoul.</br> 
+        🔭 I'm currently majoring in Computer science and Software engineering at Hanyang University.</br>
+        🔥 I'm interested in Artificial Intelligence especially Computer Vision.</br>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
