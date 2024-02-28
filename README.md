@@ -10,6 +10,30 @@
         🔭 I'm currently majoring in Computer science and Software engineering at Hanyang University.</br>
         🔥 I'm interested in Artificial Intelligence especially Computer Vision.</br>
 </div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💻 Activity</h2>
+    <table border="1" style="width: 100%; color: #c9d1d9;">
+        <tr>
+            <th>TITLE</th>
+            <th>PERIOD</th>
+            <th>SUBJECT</th>
+        </tr>
+        <tr>
+            <td>NAVER BoostCourse - AI Engineer </td>
+            <td>2024-01-12 ~ 2024-03-29</td>
+            <td>Study Machine Learning & Deep Learning + alpha (NLP, CV)</td>
+        </tr>
+        <tr>
+            <td>HYU HUHS</td>
+            <td>2023-09-01 ~ 2024-02-19</td>
+            <td>Hanyang University Computer Club</td>
+        </tr>
+        <!-- 다른 활동 항목 추가 -->
+    </table>
+
+</div>
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
     <div style="margin: 10px; text-align: left;">
