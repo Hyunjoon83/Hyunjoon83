@@ -46,6 +46,7 @@
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
         <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">
         <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
+        <img src="https://img.shields.io/badge/Markdown-4682B4?style=flat&logo=Markdown&logoColor=white">
     </div>
 </div>
 
