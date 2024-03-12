@@ -21,12 +21,12 @@
         </tr>
         <tr>
             <td>NAVER BoostCourse - AI Engineer </td>
-            <td>2024-01-12 ~ 2024-03-29</td>
+            <td>2024-01 ~ 2024-03</td>
             <td>Study Machine Learning & Deep Learning + alpha (NLP, CV)</td>
         </tr>
         <tr>
             <td>HYU HUHS</td>
-            <td>2023-09-01 ~ 2024-02-19</td>
+            <td>2023-09 ~ 2024-02</td>
             <td>Hanyang University Computer Club</td>
         </tr>
         <!-- 다른 활동 항목 추가 -->
