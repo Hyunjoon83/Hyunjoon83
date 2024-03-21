@@ -57,6 +57,6 @@
     <div style="text-align: left;">
         <a href="https://www.instagram.com/hjpark_83"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hjpark_83"> </a>
         <a href="https://velog.io/@hyunjoon0803"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@hyunjoon0803"> </a>
-        <a href="mailto:junippini83@hanyang.ac.kr"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:junippini83@hanyang.ac.kr"> </a>
+        <a href="mailto:hyunjoonpark0803@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hyunjoonpark0803@gmail.com"> </a>
     </div>
 </div>
